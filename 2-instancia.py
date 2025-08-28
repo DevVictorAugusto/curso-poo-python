@@ -8,7 +8,7 @@ class Movie:
     durationMinutes = 0
 
 movie = Movie()
-movie.name = "Safada digital"
+movie.name = "Homem Aranha"
 movie.yearLaunch = 2025
 movie.includedPlan = True
 movie.note = 3.5

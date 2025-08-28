@@ -1,3 +1,4 @@
+#Variavel de classe
 class Filme:
     platform = "Rede Canais"
     def __init__(self ,name ,yearLaunch ,includedPlan ,note ,durationMinutes):
@@ -18,5 +19,5 @@ class Filme:
         print(f"Duração {self.durationMinutes}")
 
 
-surfitinha = Filme( "Surfistinha",2014,False,3.8,165)
-print(surfitinha.listaTecnica())
+xman = Filme( "X-MAN",2014,False,3.8,165)
+print(xman.listaTecnica())

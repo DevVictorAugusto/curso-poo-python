@@ -14,7 +14,7 @@ class Filme:
         print(f"Está Plano?  {self.includedPlan}")
         print(f"Nota {self.note}")
         print(f"Duração {self.durationMinutes}")
-
+opoco2 = Filme("Safada digital",)
 opoco = Filme("O poço", 2020,True,4.8, 220)
 senna = Filme("Senna: O Brasileiro, O Herói, O Campeão",2010,False,4.6,180)
 opoco.listaTecnica()
