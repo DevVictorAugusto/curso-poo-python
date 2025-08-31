@@ -1,3 +1,7 @@
+#Relacionamento  "é um"
+
+
+
 class Animal():
     name = ""
     size     = ""
