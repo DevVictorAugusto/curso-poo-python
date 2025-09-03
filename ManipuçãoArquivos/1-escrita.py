@@ -15,5 +15,5 @@ arquivo.write(f"{name}\n")
 arquivo.close()
 
 #Alternativa 2
-with open("names.txt", "a") as arquivo:
+with open("dados/names.txt", "a") as arquivo:
     arquivo.write(f"{name}\n")
